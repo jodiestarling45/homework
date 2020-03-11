@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+Bài 1: Viết chương trình nhận vào một số từ hộp thoại, việc nhập kết thúc khi người dùng nhập vào giá trị -1. Mỗi giá trị nhập được sẽ được hiển thị ra và thực hiện tính tổng các giá trị đó.
+<input type="button" onclick="starting()" id="starting">
+<script>
+    function starting(){
+        let x=parseInt(prompt("enter the number to start"));
+        let sum=0;
+        while(x!=1){
+            sum += x;
+            alert("sum is : "+sum);
+        }
+    }
+
+</script>
+</body>
+</html>
