@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="button" onclick="ok()">
+<script>
+    let text = "";
+    let i;
+    for (i = 0; i < 5; i++) {
+        text += "The number is " + i + "<br>";
+    }
+    document.getElementById("demo").innerHTML = text;
+    function ok(){
+        let num = prompt("Enter your number: ");
+        let ending = 0;
+        let i = 1;
+        for (i=1; i <= num; i +=1) {
+            ending = ending + i;
+        }alert(ending);
+    }
+</script>
+
+
+</body>
+</html>
