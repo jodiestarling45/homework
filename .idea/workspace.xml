@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="293a7556-802c-4ab7-9312-b6ffc60a415a" name="Default Changelist" comment="" />
+    <list default="true" id="293a7556-802c-4ab7-9312-b6ffc60a415a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/caro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find_thebigest_array.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/revest_array.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workwitharray.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +19,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yv3018Ix1vuLCqs4cxQMF0mkpr" />
   <component name="ProjectViewState">
@@ -49,6 +58,7 @@
       <workItem from="1583854076896" duration="1574000" />
       <workItem from="1583856270261" duration="56000" />
       <workItem from="1583856385179" duration="3431000" />
+      <workItem from="1584004207805" duration="2574000" />
     </task>
     <servers />
   </component>
